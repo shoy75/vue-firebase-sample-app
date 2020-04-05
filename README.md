@@ -1,4 +1,4 @@
-# sample-app
+# vue-firebase-sample-app
 
 ## Project setup
 ```
